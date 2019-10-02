@@ -4,7 +4,7 @@
   "description": "Setup NodeJS with EJS in same host, same port by running one command.",
   "main": "index.js",
   "bin": {
-    "express-ejs-generator": "./index.js"
+    "express-ejs-generator": "node ./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hcminh/express-ejs-generator"
   }
 }
 
