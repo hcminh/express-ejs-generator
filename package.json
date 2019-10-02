@@ -1,0 +1,19 @@
+{
+  "name": "express-ejs-generator",
+  "version": "1.0.0",
+  "description": "Setup NodeJS with EJS in same host, same port by running one command.",
+  "main": "index.js",
+  "bin": {
+    "express-ejs-generator": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoang Cong Minh <hoangminhh17@gmail.com> (https://hcminh.github.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
+
